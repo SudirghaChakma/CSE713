@@ -1,4 +1,4 @@
-link to youtube video: 
+link to youtube video: https://www.youtube.com/watch?v=myQesUXoX1g
 Book name: Designing Data-Intensive Applications(The Big Ideas Behind Reliable, Scalable and Maintainable Systems)
 Author name: Martin Kleppmann
 Edition: First Edition

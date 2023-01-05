@@ -1,5 +1,4 @@
-link to youtube video: https://youtu.be/myQesUXoX1g
-link to the concept map: https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3
+link to youtube video: 
 Book name: Designing Data-Intensive Applications(The Big Ideas Behind Reliable, Scalable and Maintainable Systems)
 Author name: Martin Kleppmann
 Edition: First Edition
